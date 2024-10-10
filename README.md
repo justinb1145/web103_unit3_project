@@ -33,6 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![Uploading 2024-10-09 23-46-04.gif…]()
 
 
 ## Notes
